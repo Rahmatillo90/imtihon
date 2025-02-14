@@ -1,0 +1,344 @@
+[
+  {
+    "_id": {
+      "$oid": "67aa390d27d211777555ac82"
+    },
+    "title": "Eng yaxshi dasturlash tillari",
+    "content": "Python, JavaScript va Rust dasturlash olamida juda mashhur.",
+    "author": {
+      "$oid": "67aa05bfd35d0586593d2505"
+    },
+    "category": "Dasturlash",
+    "views": 20340,
+    "createdAt": {
+      "$date": "2025-02-10T17:36:13.327Z"
+    },
+    "updatedAt": {
+      "$date": "2025-02-10T17:36:13.327Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67aa392a27d211777555ac85"
+    },
+    "title": "Muvaffaqiyatli biznes sirlari",
+    "content": "Biznesda muvaffaqiyatga erishish uchun reja va sabr kerak.",
+    "author": {
+      "$oid": "67aa05bfd35d0586593d2505"
+    },
+    "category": "Biznes",
+    "views": 21000,
+    "createdAt": {
+      "$date": "2025-02-10T17:36:42.711Z"
+    },
+    "updatedAt": {
+      "$date": "2025-02-10T17:36:42.711Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67aa394827d211777555ac88"
+    },
+    "title": "Elektr transport afzalliklari",
+    "content": "Ekologik toza transport kelajakda asosiy transport turi bo‘ladi.",
+    "author": {
+      "$oid": "67aa05bfd35d0586593d2505"
+    },
+    "category": "Avtomobil",
+    "views": 18900,
+    "createdAt": {
+      "$date": "2025-02-10T17:37:12.073Z"
+    },
+    "updatedAt": {
+      "$date": "2025-02-10T17:37:12.073Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67aa395327d211777555ac8b"
+    },
+    "title": "Kiberxavfsizlik muhimmi?",
+    "content": "Shaxsiy ma’lumotlarni himoya qilish bugungi kunda dolzarb masala.",
+    "author": {
+      "$oid": "67aa05bfd35d0586593d2505"
+    },
+    "category": "Xavfsizlik",
+    "views": 17200,
+    "createdAt": {
+      "$date": "2025-02-10T17:37:23.112Z"
+    },
+    "updatedAt": {
+      "$date": "2025-02-10T17:37:23.112Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67aa396127d211777555ac8e"
+    },
+    "title": "O‘zbekistonning go‘zal joylari",
+    "content": "Samarqand, Buxoro va Xiva tarixiy shaharlar orasida mashhur.",
+    "author": {
+      "$oid": "67aa05bfd35d0586593d2505"
+    },
+    "category": "Sayohat",
+    "views": 23000,
+    "createdAt": {
+      "$date": "2025-02-10T17:37:37.037Z"
+    },
+    "updatedAt": {
+      "$date": "2025-02-10T17:37:37.037Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67aa397727d211777555ac91"
+    },
+    "title": "Tez va mazali taom tayyorlash",
+    "content": "Oddiy ingredientlardan foydalanib mazali taom tayyorlash mumkin.",
+    "author": {
+      "$oid": "67aa05bfd35d0586593d2505"
+    },
+    "category": "Oshxona",
+    "views": 14500,
+    "createdAt": {
+      "$date": "2025-02-10T17:37:59.957Z"
+    },
+    "updatedAt": {
+      "$date": "2025-02-10T17:37:59.957Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67aa398527d211777555ac94"
+    },
+    "title": "Tibbiyotda sun’iy intellekt",
+    "content": "Sun'iy intellekt kasalliklarni erta aniqlashga yordam bermoqda.",
+    "author": {
+      "$oid": "67aa05bfd35d0586593d2505"
+    },
+    "category": "Tibbiyot",
+    "views": 17450,
+    "createdAt": {
+      "$date": "2025-02-10T17:38:13.667Z"
+    },
+    "updatedAt": {
+      "$date": "2025-02-10T17:38:13.667Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67aa399927d211777555ac97"
+    },
+    "title": "Kriptovalyutalar kelajagi",
+    "content": "Bitcoin va Ethereum moliyaviy bozorni o‘zgartirmoqda.",
+    "author": {
+      "$oid": "67aa05bfd35d0586593d2505"
+    },
+    "category": "Moliyaviy",
+    "views": 19800,
+    "createdAt": {
+      "$date": "2025-02-10T17:38:33.530Z"
+    },
+    "updatedAt": {
+      "$date": "2025-02-10T17:38:33.530Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67aa39ca4e3fddea9965bbcd"
+    },
+    "title": "Yangi boshlovchilar uchun fotografiya",
+    "content": "Yaxshi suratga olish uchun eng muhim maslahatlar.",
+    "author": {
+      "$oid": "67aa05bfd35d0586593d2505"
+    },
+    "category": "Fotografiya",
+    "views": 16700,
+    "createdAt": {
+      "$date": "2025-02-10T17:39:22.087Z"
+    },
+    "updatedAt": {
+      "$date": "2025-02-10T17:39:22.087Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67aa39e84e3fddea9965bbd0"
+    },
+    "title": "Onlayn ta’lim samarali usullari",
+    "content": "Masofaviy o‘qishning afzalliklari va kamchiliklari.",
+    "author": {
+      "$oid": "67aa05bfd35d0586593d2505"
+    },
+    "category": "Ta’lim",
+    "views": 15500,
+    "createdAt": {
+      "$date": "2025-02-10T17:39:52.548Z"
+    },
+    "updatedAt": {
+      "$date": "2025-02-10T17:39:52.548Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67aa39f34e3fddea9965bbd3"
+    },
+    "title": "Ruhiy salomatlik va stress",
+    "content": "Stressni kamaytirish uchun mindfulness usullari.",
+    "author": {
+      "$oid": "67aa05bfd35d0586593d2505"
+    },
+    "category": "Sog‘liq",
+    "views": 18020,
+    "createdAt": {
+      "$date": "2025-02-10T17:40:03.509Z"
+    },
+    "updatedAt": {
+      "$date": "2025-02-10T17:40:03.509Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67aa3a004e3fddea9965bbd6"
+    },
+    "title": "Digital marketing strategiyalari",
+    "content": "SEO va ijtimoiy tarmoqlardan foydalanish bo‘yicha maslahatlar.",
+    "author": {
+      "$oid": "67aa05bfd35d0586593d2505"
+    },
+    "category": "Marketing",
+    "views": 19500,
+    "createdAt": {
+      "$date": "2025-02-10T17:40:16.868Z"
+    },
+    "updatedAt": {
+      "$date": "2025-02-10T17:40:16.868Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67aa3a0a4e3fddea9965bbd9"
+    },
+    "title": "Kelajakdagi o‘yin industriyasi",
+    "content": "Virtual reallik va bulutli o‘yinlar tez rivojlanmoqda.",
+    "author": {
+      "$oid": "67aa05bfd35d0586593d2505"
+    },
+    "category": "O‘yinlar",
+    "views": 22000,
+    "createdAt": {
+      "$date": "2025-02-10T17:40:26.528Z"
+    },
+    "updatedAt": {
+      "$date": "2025-02-10T17:40:26.528Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67aa3a154e3fddea9965bbdc"
+    },
+    "title": "Ekologik toza hayot tarzi",
+    "content": "Atrof-muhitni himoya qilish bo‘yicha oddiy maslahatlar.",
+    "author": {
+      "$oid": "67aa05bfd35d0586593d2505"
+    },
+    "category": "Ekologiya",
+    "views": 14560,
+    "createdAt": {
+      "$date": "2025-02-10T17:40:37.018Z"
+    },
+    "updatedAt": {
+      "$date": "2025-02-10T17:40:37.018Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67aa3a1e4e3fddea9965bbdf"
+    },
+    "title": "Ijtimoiy tarmoqlarning ta’siri",
+    "content": "Bugungi kunda ijtimoiy tarmoqlar hayotimizning ajralmas qismi.",
+    "author": {
+      "$oid": "67aa05bfd35d0586593d2505"
+    },
+    "category": "Ijtimoiy",
+    "views": 19850,
+    "createdAt": {
+      "$date": "2025-02-10T17:40:46.651Z"
+    },
+    "updatedAt": {
+      "$date": "2025-02-10T17:40:46.651Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67aa3a294e3fddea9965bbe2"
+    },
+    "title": "Muvaffaqiyatli liderlik sirlari",
+    "content": "Yaxshi lider jamoasini qanday boshqarishi kerak?",
+    "author": {
+      "$oid": "67aa05bfd35d0586593d2505"
+    },
+    "category": "Liderlik",
+    "views": 18900,
+    "createdAt": {
+      "$date": "2025-02-10T17:40:57.410Z"
+    },
+    "updatedAt": {
+      "$date": "2025-02-10T17:40:57.410Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67aa3a424e3fddea9965bbe5"
+    },
+    "title": "Sun’iy intellekt va ta’lim",
+    "content": "AI ta’lim tizimini qanday o‘zgartirmoqda?",
+    "author": {
+      "$oid": "67aa05bfd35d0586593d2505"
+    },
+    "category": "Texnologiya",
+    "views": 16500,
+    "createdAt": {
+      "$date": "2025-02-10T17:41:22.229Z"
+    },
+    "updatedAt": {
+      "$date": "2025-02-10T17:41:22.229Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67acd201a7ec7121889880e9"
+    },
+    "title": "Kampyuter nimadan tashkil topgan?",
+    "content": "Kampyuter 1 va 0 dan tashkil topgan",
+    "author": {
+      "$oid": "67aa05bfd35d0586593d2505"
+    },
+    "category": "Texnalogya",
+    "views": 27968,
+    "createdAt": {
+      "$date": "2025-02-12T16:53:21.335Z"
+    },
+    "updatedAt": {
+      "$date": "2025-02-12T16:53:21.335Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67acd342a7ec7121889880f4"
+    },
+    "title": "Sun'iy intellekt kelajagi",
+    "content": "Sun'iy intellekt kundalik hayotimizga tez kirib kelmoqda.",
+    "author": {
+      "$oid": "67aa05bfd35d0586593d2505"
+    },
+    "category": "Texnologiya",
+    "views": 27968,
+    "createdAt": {
+      "$date": "2025-02-12T16:58:42.054Z"
+    },
+    "updatedAt": {
+      "$date": "2025-02-12T17:02:09.952Z"
+    }
+  }
+]
